@@ -277,7 +277,7 @@ const developmentWorkflow = {
 
 **Looking for:** Full Stack Developer / Node.js Developer / Backend Developer roles  
 **Availability:** Immediate Joiner (0-15 days notice)  
-**Location:** Patna, Bihar, India (Open to Remote/Relocation)
+**Location:** India (Open to Remote/Relocation)
 
 ---
 

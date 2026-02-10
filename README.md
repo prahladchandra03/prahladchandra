@@ -21,46 +21,46 @@ Result-oriented Full Stack Developer with **3+ years** experience building scala
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
 
 **Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
 </div>
 
 ---
 ## 🎯 Key Achievements
-- Built production apps serving high traffic with 99.9% uptime
-- Reduced API response time by **30-60%** using Redis caching & query optimization
+- Built production apps with 99.9% uptime
+- Reduced API response time by **30-60%** using caching & optimization
 - Delivered **10+ contract projects** as freelance developer
 - AWS Certified Solutions Architect (SAA-C03)
 
 ---
-## 🚀 Featured Projects (From Resume)
+## 🚀 Featured Live Projects
 
-### 🛒 Scalable E-Commerce Microservices Platform
-**Tech:** React, Node.js, MongoDB, Redis, WebSockets  
-Multi-tenant architecture with real-time inventory. Reduced DB load by **60%** via Redis.  
-[GitHub Repo](https://github.com/prahladchandra03/YOUR-ECOMMERCE-REPO) • [Live Demo](ADD-LINK)
+### ⚡ Smart API Monitoring Platform (Real-Time Alerts SaaS)
+**Tech:** Node.js, TypeScript, Next.js  
+Automates API testing/monitoring with real-time alerts.  
+[GitHub](https://github.com/prahladchandra03/smart-api-monitoring-platform) • [Live Demo](https://smart-api-monitoring-platform.onrender.com/)
 
-### ⚡ Real-Time Data Synchronization Engine
-**Tech:** Node.js, Socket.io, Redis, React  
-Live dashboard with **<200ms latency**. Virtual scrolling for 10k+ rows at 60 FPS.  
-[GitHub Repo](https://github.com/prahladchandra03/smart-api-monitoring-platform) • [Live Demo](ADD-LINK)
+### 📋 Task Management System (Full-Stack)
+**Tech:** Next.js (Frontend), Node.js/Express/Prisma (Backend), PostgreSQL, JWT  
+Responsive task manager with search, filter, status toggle, and card UI.  
+[GitHub](https://github.com/prahladchandra03/Task-Management-System) • [Live Demo](https://task-management-system-6-ljjt.onrender.com/auth/login)
 
-### 🔐 Enterprise ERP & RBAC System
-**Tech:** Node.js, MongoDB, JWT, Express  
-Granular RBAC for 50+ endpoints. Custom middleware reduced crashes by **15%**.  
-[GitHub Repo](https://github.com/prahladchandra03/ERP-RBAC-System) • [Live Demo](ADD-LINK)
+### 🤖 Learn with Jiji – Backend Service
+**Tech:** Node.js, Express, Supabase (PostgreSQL + Auth + Storage), Zod  
+Backend for AI-powered learning companion (query storage, resource fetching, RLS security).  
+[GitHub](https://github.com/prahladchandra03/Learn-with-Jiji-Backend) • Live Demo (Backend-only, API test via Postman)
 
 ---
 ## 📊 GitHub Stats

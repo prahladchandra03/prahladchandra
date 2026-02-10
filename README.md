@@ -1,17 +1,16 @@
-# Hi there! 👋 I'm Prahlad Chandra
+# Hi 👋, I'm Prahlad Chandra
 <div align="center">
 
-## 🚀 Backend & Full-Stack Developer | Node.js Specialist | Building Scalable Solutions
+## 🚀 Full Stack Developer | Node.js & MERN Specialist | AWS Certified
 
-Backend-focused Full Stack Developer with **3+ years** experience in high-performance APIs, real-time systems, and cloud deployments. Passionate about clean code and solving complex challenges.
+Result-oriented Full Stack Developer with **3+ years** experience building scalable backend systems, microservices, and real-time apps. Expert in reducing latency (30-60%) and optimizing performance with Redis & AWS.
 
-### 🟢 Open to Opportunities | Immediate Joiner (0-15 days)
+**🟢 Open to Freelance & Remote Roles | Immediate Joiner**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahladchandra/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prahladchandra11@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prahladchandra03)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prahladchandra2)
-![Profile Views](https://komarev.com/ghpvc/?username=prahladchandra03&color=brightgreen&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahlad-chandra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prahladchandra11@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919153378961)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prahladchandra2)
 
 </div>
 
@@ -19,48 +18,77 @@ Backend-focused Full Stack Developer with **3+ years** experience in high-perfor
 ## 🛠️ Tech Stack
 <div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) 
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
 </div>
 
 ---
-## 🎯 Expertise & Achievements
-```javascript
-const prahlad = {
-    location: "Patna, Bihar, India",
-    availability: "Immediate Joiner",
-    roles: ["Full Stack Developer", "Node.js Developer", "Backend Developer"],
-    preference: ["Remote", "Hybrid", "Relocation"],
-    expertise: [
-        "Scalable RESTful APIs with Node.js & Express",
-        "Efficient DB schemas (MongoDB/MySQL) + Redis caching",
-        "Real-time features with Socket.io",
-        "Responsive UIs with React/Next.js",
-        "Docker + CI/CD + AWS deployments"
-    ],
-    achievements: [
-        "Built apps serving 10,000+ users",
-        "Reduced API response time by 60% (Redis)",
-        "Cut deployment time by 70% (CI/CD)",
-        "Deployed scalable systems on AWS"
-    ]
-};
+## 🎯 Key Achievements
+- Built production apps serving high traffic with 99.9% uptime
+- Reduced API response time by **30-60%** using Redis caching & query optimization
+- Delivered **10+ contract projects** as freelance developer
+- AWS Certified Solutions Architect (SAA-C03)
+
+---
+## 🚀 Featured Projects (From Resume)
+
+### 🛒 Scalable E-Commerce Microservices Platform
+**Tech:** React, Node.js, MongoDB, Redis, WebSockets  
+Multi-tenant architecture with real-time inventory. Reduced DB load by **60%** via Redis.  
+[GitHub Repo](https://github.com/prahladchandra03/YOUR-ECOMMERCE-REPO) • [Live Demo](ADD-LINK)
+
+### ⚡ Real-Time Data Synchronization Engine
+**Tech:** Node.js, Socket.io, Redis, React  
+Live dashboard with **<200ms latency**. Virtual scrolling for 10k+ rows at 60 FPS.  
+[GitHub Repo](https://github.com/prahladchandra03/smart-api-monitoring-platform) • [Live Demo](ADD-LINK)
+
+### 🔐 Enterprise ERP & RBAC System
+**Tech:** Node.js, MongoDB, JWT, Express  
+Granular RBAC for 50+ endpoints. Custom middleware reduced crashes by **15%**.  
+[GitHub Repo](https://github.com/prahladchandra03/ERP-RBAC-System) • [Live Demo](ADD-LINK)
+
+---
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prahladchandra03&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladchandra03&layout=compact&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prahladchandra03&theme=radical"/>
+</div>
+
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prahladchandra03&theme=radical&row=1"/>
+</div>
+
+---
+## 📫 Let's Connect!
+<div align="center">
+**Open to freelance contracts, full-time remote roles, and collaborations**  
+Patna, Bihar, India • Open to Relocation
+
+📧 prahladchandra11@gmail.com  
+📱 +91 9153378961  
+💼 [LinkedIn](https://www.linkedin.com/in/prahlad-chandra)
+
+**Star my repos if useful • Let's build scalable solutions together!** 🚀
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>

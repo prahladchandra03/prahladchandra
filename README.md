@@ -1,25 +1,22 @@
 # Hi there! 👋 I'm Prahlad Chandra
-
 <div align="center">
 
-## 🚀 Full Stack Developer | Node.js Specialist | Building Scalable Solutions
+## 🚀 Backend & Full-Stack Developer | Node.js Specialist | Building Scalable Solutions
 
-Backend-focused Full Stack Developer with **3+ years** of experience building high-performance APIs, real-time systems, and cloud-ready applications. Passionate about writing clean, maintainable code and solving complex technical challenges.
+Backend-focused Full Stack Developer with **3+ years** experience in high-performance APIs, real-time systems, and cloud deployments. Passionate about clean code and solving complex challenges.
 
-### 🟢 Open to New Opportunities | Immediate Joiner
+### 🟢 Open to Opportunities | Immediate Joiner (0-15 days)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prahlad-chandra)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahladchandra/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prahladchandra11@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prahladchandra)
-
-![Profile Views](https://komarev.com/ghpvc/?username=prahladchandra&color=brightgreen&style=flat-square)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prahladchandra03)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prahladchandra2)
+![Profile Views](https://komarev.com/ghpvc/?username=prahladchandra03&color=brightgreen&style=flat-square)
 
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Backend
@@ -46,284 +43,24 @@ Backend-focused Full Stack Developer with **3+ years** of experience building hi
 </div>
 
 ---
-
-## 🎯 What I Do Best
-
+## 🎯 Expertise & Achievements
 ```javascript
 const prahlad = {
     location: "Patna, Bihar, India",
-    availability: "Immediate Joiner (0-15 days)",
-    lookingFor: ["Full Stack Developer", "Node.js Developer", "Backend Developer"],
-    workPreference: ["Remote", "Hybrid", "Relocation"],
-    
+    availability: "Immediate Joiner",
+    roles: ["Full Stack Developer", "Node.js Developer", "Backend Developer"],
+    preference: ["Remote", "Hybrid", "Relocation"],
     expertise: [
-        "Building scalable RESTful APIs with Node.js & Express.js",
-        "Designing efficient database schemas (MongoDB, MySQL)",
-        "Implementing caching strategies with Redis",
-        "Creating responsive frontends with React.js & Next.js",
-        "Setting up CI/CD pipelines and Docker containerization",
-        "Deploying production applications on AWS"
+        "Scalable RESTful APIs with Node.js & Express",
+        "Efficient DB schemas (MongoDB/MySQL) + Redis caching",
+        "Real-time features with Socket.io",
+        "Responsive UIs with React/Next.js",
+        "Docker + CI/CD + AWS deployments"
     ],
-    
     achievements: [
-        "Built production apps serving 10,000+ users",
-        "Reduced API response time by 60% using Redis caching",
-        "Implemented CI/CD reducing deployment time by 70%",
-        "Deployed multiple scalable applications on AWS"
+        "Built apps serving 10,000+ users",
+        "Reduced API response time by 60% (Redis)",
+        "Cut deployment time by 70% (CI/CD)",
+        "Deployed scalable systems on AWS"
     ]
 };
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce SaaS Platform
-**Tech Stack:** Node.js, MongoDB, Redis, React.js
-
-Multi-tenant SaaS platform with real-time inventory management and payment integration.
-
-**Key Features:**
-- 🔹 Handles **10,000+ concurrent users** with optimized architecture
-- 🔹 **Redis caching** reduces response time by 60%
-- 🔹 **Role-based access control (RBAC)** for secure multi-tenant access
-- 🔹 Integrated **payment gateways** (Stripe/Razorpay)
-- 🔹 Real-time inventory updates using WebSockets
-- 🔹 Comprehensive admin dashboard with analytics
-
-**Technical Highlights:**
-- RESTful API architecture with Express.js
-- MongoDB for flexible, scalable data storage
-- Redis for session management & caching
-- JWT authentication & authorization
-- Docker containerization for consistent deployments
-- AWS EC2 deployment with auto-scaling
-
-**Performance Metrics:**
-- API Response Time: < 200ms
-- Uptime: 99.9%
-- Concurrent Users: 10,000+
-- Database Queries: Optimized with indexing
-
----
-
-### 🕷️ Web Scraping Platform
-**Tech Stack:** Node.js, Puppeteer, AWS S3, MongoDB
-
-Automated web scraping solution with intelligent data extraction and cloud storage.
-
-**Key Features:**
-- 🔹 Scrapes **1000+ pages daily** on automated schedule
-- 🔹 **Headless browser automation** with Puppeteer
-- 🔹 Data stored in **AWS S3** for scalability and cost-efficiency
-- 🔹 **RESTful API** for easy data access and integration
-- 🔹 Automated scheduling with cron jobs
-- 🔹 Error handling & retry mechanisms
-
-**Technical Highlights:**
-- Intelligent rate limiting to avoid blocking
-- Proxy rotation for reliable scraping
-- Data validation & cleaning pipelines
-- MongoDB for metadata storage
-- S3 for raw data archives
-- Email notifications for job completion
-
-**Use Cases:**
-- Price monitoring & comparison
-- Content aggregation
-- Market research & analysis
-- Competitor tracking
-
----
-
-### 🎉 Event Management System
-**Tech Stack:** MERN Stack, Redis, Docker, Socket.io
-
-Complete event management solution with real-time updates and ticketing system.
-
-**Key Features:**
-- 🔹 **Real-time seat booking** with Socket.io for instant updates
-- 🔹 **Redis** for fast session management & seat locking
-- 🔹 **QR code generation** for digital tickets
-- 🔹 **Dockerized** application for easy deployment
-- 🔹 Email notifications for bookings & reminders
-- 🔹 Payment gateway integration
-
-**Technical Highlights:**
-- WebSocket connections for real-time updates
-- Optimistic locking to prevent double bookings
-- Redis pub/sub for distributed systems
-- Automated email workflows
-- Responsive Material-UI design
-- CI/CD pipeline with GitHub Actions
-
-**Features:**
-- Event creation & management
-- Ticket booking with seat selection
-- Payment processing
-- Admin analytics dashboard
-- User profile & booking history
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prahladchandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladchandra&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prahladchandra&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- 🤖 **AI Integration** with Node.js (OpenAI API, LangChain)
-- ⚡ **Advanced AWS** services (Lambda, ECS, CloudFormation)
-- 🔐 **Advanced Security** patterns & authentication strategies
-- 📊 **GraphQL** & Apollo Server for efficient data fetching
-- 🎯 **Microservices** architecture & distributed systems
-- 🚀 **Performance optimization** techniques
-
----
-
-## 💼 Professional Experience Highlights
-
-### Backend Development
-✅ Built **RESTful APIs** serving millions of requests daily  
-✅ Implemented **microservices architecture** for scalability  
-✅ Optimized **database queries** reducing response time by 60%  
-✅ Designed **scalable database schemas** for complex applications  
-✅ Integrated **third-party APIs** (Payment, SMS, Email, Maps)
-
-### Frontend Development
-✅ Created **responsive web applications** with React.js  
-✅ Implemented **state management** with Redux & Context API  
-✅ Built **reusable component libraries** with Material-UI  
-✅ Optimized **frontend performance** (lazy loading, code splitting)  
-✅ Ensured **cross-browser compatibility** and accessibility
-
-### DevOps & Cloud
-✅ Set up **CI/CD pipelines** with GitHub Actions  
-✅ **Dockerized applications** for consistent environments  
-✅ Deployed on **AWS** (EC2, S3, ECS, RDS)  
-✅ Implemented **monitoring & logging** (CloudWatch, PM2)  
-✅ Managed **cloud infrastructure** and cost optimization
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prahladchandra&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💡 Code Philosophy
-
-```javascript
-// Clean Code Principles I Follow
-const myCodePhilosophy = {
-    readable: "Code is read 10x more than it's written",
-    maintainable: "Write code that others (and future you) can understand",
-    scalable: "Design with growth in mind from day one",
-    tested: "Test-driven development saves debugging time",
-    documented: "Good documentation is as important as good code",
-    performant: "Optimize for user experience, not premature optimization"
-};
-
-// My Development Approach
-const developmentWorkflow = {
-    plan: "Understand requirements thoroughly before coding",
-    design: "Architect the solution with scalability in mind",
-    develop: "Write clean, modular, and reusable code",
-    test: "Test early, test often, test thoroughly",
-    deploy: "Automate deployment with CI/CD",
-    monitor: "Track performance and fix issues proactively",
-    iterate: "Continuously improve based on feedback"
-};
-```
-
----
-
-## 📈 What I'm Working On
-
-🔭 **Current Projects:**
-- Building an AI-powered content recommendation system
-- Contributing to open-source Node.js libraries
-- Creating technical content & tutorials
-
-🎯 **Short-term Goals:**
-- Master advanced AWS services
-- Build production-ready GenAI applications
-- Contribute to major open-source projects
-
-🌟 **Long-term Vision:**
-- Become a solutions architect
-- Build products that impact millions
-- Mentor aspiring developers
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-### 🟢 Open to Work | Actively Seeking New Opportunities
-
-**Looking for:** Full Stack Developer / Node.js Developer / Backend Developer roles  
-**Availability:** Immediate Joiner (0-15 days notice)  
-**Location:** India (Open to Remote/Relocation)
-
----
-
-📧 **Email:** prahladchandra11@gmail.com  
-📱 **Phone:** +91-9153378961  
-💼 **LinkedIn:** [linkedin.com/in/prahlad-chandra](https://linkedin.com/in/prahlad-chandra)  
-🐙 **GitHub:** [github.com/prahladchandra](https://github.com/prahladchandra)
-
----
-
-### 💬 Open to discuss:
-✅ Full-time opportunities  
-✅ Freelance projects  
-✅ Technical collaborations  
-✅ Open-source contributions  
-✅ Mentorship & knowledge sharing
-
----
-
-**⭐ Star my repositories if you find them useful!**  
-**🤝 Let's build something amazing together!**
-
-</div>
-
----
-
-## 💻 Fun Fact
-
-```javascript
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-
-// Debugging is like being a detective in a crime movie
-// where you're also the murderer 🕵️‍♂️
-```
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>

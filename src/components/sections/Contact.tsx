@@ -73,7 +73,7 @@ export default function Contact() {
                 playsInline
                 className="w-full h-48 object-cover"
               >
-                <source src="/SIDE.mp4" type="video/mp4" />
+                <source src="https://res.cloudinary.com/ddgzie5qe/video/upload/v1788588302/SIDE_kyqady.mp4" type="video/mp4" />
               </video>
               {/* Overlay gradient */}
               <div className="absolute inset-0 bg-gradient-to-t from-surface-0/80 via-transparent to-transparent" />

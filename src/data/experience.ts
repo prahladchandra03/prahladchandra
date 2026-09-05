@@ -1,0 +1,125 @@
+import type { Experience } from '../types';
+
+export const experiences: Experience[] = [
+  {
+    id: 'exp-1',
+    company: 'Appinventiv (Client: NEGD, MeitY)',
+    role: 'Full Stack Developer - Gov Event Portals',
+    duration: 'Feb 2026 – Present',
+    startDate: 'Feb 2026',
+    endDate: 'Present',
+    description:
+      'Architecting and delivering international summit-scale event portals including India-Africa Forum Summit (IAFS 2026 - iafs2026.in) and BRICS Event Management Portals for National e-Governance Division (NEGD), MeitY.',
+    responsibilities: [
+      'Architecting and delivering IAFS 2026 and BRICS Event Management Portals using a monorepo architecture for multi-stakeholder international summits.',
+      'Built Exhibition module end-to-end using Node.js/Express REST APIs and React interfaces for exhibitor onboarding, listings, and delegation schedules.',
+      'Engineered reusable common React components (Quiz, Pledge, Survey modules) during NEGD Hackathon to standardize UI/UX cross-platform.',
+      'Designed and implemented granular Role-Based Access Control (RBAC) and User-Based Access Control (UBAC) layers with persona dashboards.',
+      'Managed strategic branch deployments and orchestrated automated CI/CD pipelines including emergency hotfixes directly to development environments.',
+    ],
+    technologies: [
+      'Node.js',
+      'Express.js',
+      'React',
+      'TypeScript',
+      'Monorepo',
+      'RBAC/UBAC',
+      'AWS',
+      'CI/CD',
+      'REST APIs',
+    ],
+    achievements: [
+      'Architected international summit-scale government portals (IAFS 2026 & BRICS)',
+      'Engineered reusable module suite (Quiz, Pledge, Survey) standardizing UI/UX across NEGD applications',
+      'Implemented strict audit-ready RBAC/UBAC security framework',
+    ],
+  },
+  {
+    id: 'exp-2',
+    company: 'Independent Contractor',
+    role: 'Freelance Full Stack Developer',
+    duration: 'Mar 2024 – Nov 2025',
+    startDate: 'Mar 2024',
+    endDate: 'Nov 2025',
+    description:
+      'Architected and shipped 10+ production web applications end-to-end on the MERN stack with TypeScript.',
+    responsibilities: [
+      'Architected and deployed 10+ production web applications end-to-end using MERN stack, Vercel frontend hosting, and Render backend APIs.',
+      'Refactored database schemas and backend application logic, delivering a 20% gain in application speed.',
+      'Automated recurring client business workflows, saving ~5 hours of manual processing time per week.',
+    ],
+    technologies: [
+      'React.js',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'TypeScript',
+      'Vercel',
+      'Render',
+      'REST APIs',
+    ],
+    achievements: [
+      'Shipped 10+ end-to-end production web applications for clients globally',
+      'Achieved 20% application speed improvement via query & schema optimization',
+      'Saved clients ~5 hours/week through automated business workflows',
+    ],
+  },
+  {
+    id: 'exp-3',
+    company: 'Alphaloop IT Pvt. Ltd.',
+    role: 'Full Stack Developer',
+    duration: 'Jan 2024 – Apr 2024',
+    startDate: 'Jan 2024',
+    endDate: 'Apr 2024',
+    description:
+      'Engineered end-to-end product features across MongoDB, Express, React, and Node.js in a fast-moving Agile team.',
+    responsibilities: [
+      'Engineered modular, reusable React frontend components and integrated with secure backend services.',
+      'Developed secure backend REST endpoints with JWT authentication and strict input validation schemas.',
+      'Collaborated closely with cross-functional teams in fast-paced Agile sprint cycles.',
+    ],
+    technologies: [
+      'MongoDB',
+      'Express.js',
+      'React',
+      'Node.js',
+      'JavaScript',
+      'JWT',
+      'REST APIs',
+    ],
+    achievements: [
+      'Delivered key product modules on schedule within Agile sprint deadlines',
+      'Built reusable component architecture reducing future feature dev time',
+    ],
+  },
+  {
+    id: 'exp-4',
+    company: 'Arcgate Technologies LLP',
+    role: 'Node.js Developer',
+    duration: 'Jun 2022 – Aug 2023',
+    startDate: 'Jun 2022',
+    endDate: 'Aug 2023',
+    description:
+      'Designed high-throughput REST APIs and microservices infrastructure with Redis caching and error-monitoring pipelines.',
+    responsibilities: [
+      'Designed and delivered 25+ RESTful APIs powering communication between core enterprise services.',
+      'Reduced average API response time by 30% through query optimization, indexing, and server logic refinement.',
+      'Introduced Redis-based caching layer so core modules absorbed peak traffic load without performance degradation.',
+      'Built structured logging and error-monitoring pipelines supporting 99.9% system uptime.',
+    ],
+    technologies: [
+      'Node.js',
+      'Express.js',
+      'Redis',
+      'REST APIs',
+      'MongoDB',
+      'Logging & Monitoring',
+      'Git',
+    ],
+    achievements: [
+      'Delivered 25+ production REST APIs serving core service communications',
+      'Cut average API response times by 30%',
+      'Maintained 99.9% system uptime using Redis caching and structured logging',
+    ],
+  },
+];

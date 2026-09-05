@@ -32,7 +32,7 @@ export default function Hero() {
             objectFit: 'cover', opacity: 1,
           }}
         >
-          <source src="/MAIN.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/ddgzie5qe/video/upload/v1788588355/MAIN_zznoei.mp4" type="video/mp4" />
         </video>
 
         {/* Light dark overlay — enough to darken but still show video clearly */}
